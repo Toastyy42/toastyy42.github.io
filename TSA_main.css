@@ -1,0 +1,19 @@
+#oioioi {
+    padding: 3vh;
+    background-color: rgb(69, 69, 69);
+    text-decoration: none;
+}
+.info12,.info13 {
+    color: white;
+    font-family: "San Francisco", sans-serif;
+    text-align: center;
+}
+#button12 {
+    color:white;
+    text-decoration: none;
+    padding: 3vh;
+    background: blue;
+    margin-top: ;
+    margin-left: 45%;
+    margin-right: 45%;
+}
