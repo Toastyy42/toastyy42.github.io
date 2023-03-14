@@ -1,0 +1,45 @@
+.info1 {
+    display:-moz-inline-stack;
+    background-color: rgb(47, 47, 47);
+}
+.info2 {
+    display:-moz-inline-stack;
+    background-color: rgb(55, 55, 55);
+}
+.info3 {
+    display:-moz-inline-stack;
+    background-color: rgb(47, 47, 47);
+}
+.info4 {
+    display:-moz-inline-stack;
+    background-color: rgb(55, 55, 55);
+}
+.info5 {
+    display:-moz-inline-stack;
+    background-color: rgb(47, 47, 47);
+}
+
+.text12 {
+    display:inline-block;
+}
+
+
+/* images and font scaling/color */
+img {
+    width: 20vh;
+    height: 20vh;
+    display:inline-block;
+}
+.maintext {
+    font-size: 2vh;
+}
+.info1,.info2,.info3,.info4,.info5 {
+    margin-bottom: 1vh;
+    height: 20vh;
+}
+#text13 {
+    color: white;
+}
+#nameText {
+    color:white;
+}

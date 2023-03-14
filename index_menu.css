@@ -1,0 +1,100 @@
+
+
+
+/* Menu */
+.menu {
+    overflow: hidden;
+    background-color: #000000;
+    top: 0px;
+    width: 100%;
+  }
+  .menu a {
+    float: left;
+    display: block;
+    color: #E4E4E4;
+    text-align: center;
+    padding: 0vh 4vh;
+    text-decoration: none;
+  }/* Menu */
+  #menutext1 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+}
+#menutext1:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+
+  #menutext2 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+}
+#menutext2:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+
+  #menutext3 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+}
+#menutext3:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+
+  #menutext4 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+}
+#menutext4:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+
+  #menutext5 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+}
+#menutext5:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+
+  #menutext6 {
+    background: linear-gradient(currentColor 0 0) bottom left/var(--underline-width, 0%) 0.1em no-repeat;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-size 0.5s;
+    font-family: "San Francisco", sans-serif;
+    font-weight: 400;
+}
+#menutext6:hover {
+    --underline-width: 100%;
+    background-color: grey;
+    transition: 0.5s;
+  }
+#menutext2,#menutext3,#menutext4,#menutext5 {
+    font-size: 2vh;
+}
